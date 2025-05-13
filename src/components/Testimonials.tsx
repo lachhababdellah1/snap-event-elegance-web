@@ -11,7 +11,7 @@ const Testimonials = () => {
     quote: "SnapEvent transformed our product launch into a trending topic overnight. Their attention to detail and media connections resulted in unprecedented coverage.",
     author: "Sarah Johnson",
     position: "Marketing Director, Luxury Cosmetics",
-    image: "https://i.pravatar.cc/150?img=32"
+    image: "public/lovable-uploads/e43b95c2-c7e6-4478-8be8-b9797da1ddbf.png"
   }, {
     quote: "The professionalism and creativity displayed by the SnapEvent team during our annual gala was remarkable. They exceeded all expectations.",
     author: "Robert Chen",
