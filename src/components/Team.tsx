@@ -15,7 +15,7 @@ const Team = () => {
       name: t('team.member2.name'),
       position: t('team.member2.position'),
       bio: t('team.member2.bio'),
-      image: 'https://i.pravatar.cc/300?img=26'
+      image: 'public/lovable-uploads/06933056-c418-45eb-b3ac-58f3d5e9e5d9.png'
     },
     {
       name: t('team.member3.name'),
