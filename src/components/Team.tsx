@@ -1,4 +1,3 @@
-
 import { useLanguage } from '../context/LanguageContext';
 import { Card, CardContent } from './ui/card';
 
@@ -10,7 +9,7 @@ const Team = () => {
       name: t('team.member1.name'),
       position: t('team.member1.position'),
       bio: t('team.member1.bio'),
-      image: 'https://i.pravatar.cc/300?img=11'
+      image: 'public/lovable-uploads/320cf59a-8f59-482d-b71b-8604439f5f4f.png'
     },
     {
       name: t('team.member2.name'),
